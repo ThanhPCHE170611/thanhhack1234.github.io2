@@ -1,1 +1,2 @@
-# thanhhack1234.github.io
+author : PhamThanh
+work at: FPT University 
